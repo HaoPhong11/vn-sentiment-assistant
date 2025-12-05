@@ -3,8 +3,7 @@
 ## 📖 Giới thiệu (Introduction)
 Đây là đồ án môn học **Seminar Chuyên đề**. Ứng dụng là một trợ lý ảo giúp phân loại cảm xúc của các câu văn bản tiếng Việt (Tích cực / Tiêu cực / Trung tính) sử dụng mô hình Deep Learning Transformer (PhoBERT).
 
-**Sinh viên thực hiện:** [Tên Của Bạn]
-**GVHD:** [Tên Giảng Viên]
+**Sinh viên thực hiện:** Nguyễn Hào Phong 
 
 ## 🚀 Tính năng chính (Features)
 - **Phân loại cảm xúc:** Sử dụng model `wonrax/phobert-base-vietnamese-sentiment` đạt độ chính xác cao.
