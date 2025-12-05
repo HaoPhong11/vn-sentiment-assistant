@@ -37,6 +37,7 @@
    ```bash
    📦 vn-sentiment-assistant
     ┣ 📜 app.py                # Mã nguồn chính
+    ┣📜 config.toml            # File chỉnh màu sắc, font chữ
     ┣ 📜 sentiment_history.db  # Database (Tự tạo khi chạy)
     ┣ 📜 requirements.txt      # Danh sách thư viện
     ┗ 📜 README.md             # Tài liệu hướng dẫn này
