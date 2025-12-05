@@ -22,12 +22,12 @@
    ```bash
    git clone https://github.com/HaoPhong11/vn-sentiment-assistant.git
    cd vn-sentiment-assistant
-Bước 2: Chạy ứng dụng
+2. Chạy ứng dụng:
    ```bash
    streamlit run app.py
-Bước 3: Truy cập
-Mở trình duyệt tại địa chỉ: http://localhost:8501
-Bước 4: Thao tác
-Nhập câu tiếng Việt vào ô trống.
+3. Truy cập:
+   Mở trình duyệt tại địa chỉ: http://localhost:8501
+4. Thao tác:
+   Nhập câu tiếng Việt vào ô trống.
 Nhấn nút Phân tích ngay để xem kết quả.
 
