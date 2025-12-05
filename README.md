@@ -34,9 +34,10 @@
    Nhập câu tiếng Việt vào ô trống.
    Nhấn nút Phân tích ngay để xem kết quả.
 ## 📂 Cấu trúc thư mục
-📦 vn-sentiment-assistant
- ┣ 📜 app.py                # Mã nguồn chính
- ┣ 📜 sentiment_history.db  # Database (Tự tạo khi chạy)
- ┣ 📜 requirements.txt      # Danh sách thư viện
- ┗ 📜 README.md             # Tài liệu hướng dẫn này
+   ```bash
+   📦 vn-sentiment-assistant
+    ┣ 📜 app.py                # Mã nguồn chính
+    ┣ 📜 sentiment_history.db  # Database (Tự tạo khi chạy)
+    ┣ 📜 requirements.txt      # Danh sách thư viện
+    ┗ 📜 README.md             # Tài liệu hướng dẫn này
 
