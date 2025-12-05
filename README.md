@@ -21,12 +21,22 @@
    ```bash
    git clone https://github.com/HaoPhong11/vn-sentiment-assistant.git
    cd vn-sentiment-assistant
-2. Chạy ứng dụng:
+2. Cài đặt thư viện cần thiết:
+   ```bash
+   pip install -r requirements.txt
+## 💻 Hướng dẫn sử dụng (Usage)
+1. Chạy ứng dụng:
    ```bash
    streamlit run app.py
-3. Truy cập:
+2. Truy cập:
    Mở trình duyệt tại địa chỉ: http://localhost:8501
-4. Thao tác:
+3. Thao tác:
    Nhập câu tiếng Việt vào ô trống.
-Nhấn nút Phân tích ngay để xem kết quả.
+   Nhấn nút Phân tích ngay để xem kết quả.
+## 📂 Cấu trúc thư mục
+📦 vn-sentiment-assistant
+ ┣ 📜 app.py                # Mã nguồn chính
+ ┣ 📜 sentiment_history.db  # Database (Tự tạo khi chạy)
+ ┣ 📜 requirements.txt      # Danh sách thư viện
+ ┗ 📜 README.md             # Tài liệu hướng dẫn này
 
