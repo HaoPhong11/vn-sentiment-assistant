@@ -1,0 +1,9 @@
+[theme]
+primaryColor="#4F46E5" # Màu tím xanh hiện đại làm màu chủ đạo (cho nút bấm, thanh trượt)
+backgroundColor="#F8FAFC" # Màu nền xám rất nhạt, tạo cảm giác sạch sẽ
+secondaryBackgroundColor="#FFFFFF" # Màu nền cho sidebar và các hộp input (màu trắng)
+textColor="#1E293B" # Màu chữ xám đậm, dễ đọc hơn màu đen tuyền
+font="sans serif" # Font chữ hiện đại không chân
+
+[server]
+headless = true
